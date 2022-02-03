@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite configfailurepolicy="continue" thread-count="1" name="od">
+  <parameter name="browserName" value="chrome"/>
+  <listeners>
+    <listener class-name="com.od.listeners.TestListener"/>
+  </listeners>
+  <test thread-count="1" name="PROJECT_Test1">
+    <classes>
+      <class name="com.od.testscripts.LawSummaries"/>
+      <class name="com.od.testscripts.FormsDocuments"/>
+      <class name="com.od.testscripts.Quick_Guides"/>
+    </classes>
+  </test> <!-- PROJECT_Test1 -->
+</suite> <!-- od -->

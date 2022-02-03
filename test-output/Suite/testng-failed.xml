@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="browserName" value="Chrome"/>
+  <listeners>
+    <listener class-name="com.demo.listeners.TestListener"/>
+  </listeners>
+  <test name="Test(failed)">
+    <parameter name="browserName" value="Chrome"/>
+    <classes>
+      <class name="com.demo.testscripts.script2">
+        <methods>
+          <include name="testScript2"/>
+          <include name="setExtentReport"/>
+          <include name="precondition"/>
+          <include name="postcondition"/>
+        </methods>
+      </class> <!-- com.demo.testscripts.script2 -->
+      <class name="com.demo.testscripts.script3">
+        <methods>
+          <include name="testScript3"/>
+          <include name="setExtentReport"/>
+        </methods>
+      </class> <!-- com.demo.testscripts.script3 -->
+      <class name="com.demo.testscripts.script1">
+        <methods>
+          <include name="killTask"/>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="precondition"/>
+          <include name="postcondition"/>
+        </methods>
+      </class> <!-- com.demo.testscripts.script1 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

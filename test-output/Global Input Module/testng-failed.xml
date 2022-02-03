@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" configfailurepolicy="continue" guice-stage="DEVELOPMENT" name="Failed suite [Global Input Module]">
+  <listeners>
+    <listener class-name="com.demo.listeners.TestListener"/>
+  </listeners>
+  <test name="PROJECT_Test1(failed)">
+    <parameter name="browserName" value="chrome"/>
+    <classes>
+      <class name="com.demo.test.demo.testscripts.HostBooksDemo">
+        <methods>
+          <include name="killTask"/>
+          <include name="launchBrowser"/>
+          <include name="hostBooks" invocation-numbers="0"/>
+          <include name="setExtentReport"/>
+          <include name="killBrowser"/>
+          <include name="createFolder"/>
+        </methods>
+      </class> <!-- com.demo.test.demo.testscripts.HostBooksDemo -->
+    </classes>
+  </test> <!-- PROJECT_Test1(failed) -->
+</suite> <!-- Failed suite [Global Input Module] -->

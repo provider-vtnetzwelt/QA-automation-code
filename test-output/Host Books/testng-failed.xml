@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" configfailurepolicy="continue" guice-stage="DEVELOPMENT" name="Failed suite [Host Books]">
+  <parameter name="browserName" value="chrome"/>
+  <listeners>
+    <listener class-name="com.hostbooks.listeners.TestListener"/>
+  </listeners>
+  <test thread-count="1" name="PROJECT_Test1">
+    <parameter name="browserName" value="chrome"/>
+    <classes>
+      <class name="com.hostbooks.testscripts.CreateQuoteSalesOrder"/>
+    </classes>
+  </test> <!-- PROJECT_Test1 -->
+</suite> <!-- Failed suite [Host Books] -->

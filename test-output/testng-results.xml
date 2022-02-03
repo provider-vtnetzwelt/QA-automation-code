@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="7" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[publish date text box is not visible]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+    <line>
+      <![CDATA[publish button is not visible]]>
+    </line>
+    <line>
+      <![CDATA[Unable to load the page correctly]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-02-03T13:46:40 IST" name="od" finished-at="2022-02-03T13:51:21 IST" duration-ms="281337">
+    <groups>
+    </groups>
+    <test started-at="2022-02-03T13:46:40 IST" name="PROJECT_Test1" finished-at="2022-02-03T13:51:21 IST" duration-ms="281337">
+      <class name="com.od.testscripts.FormsDocuments">
+        <test-method is-config="true" signature="setExtentReport()[pri:0, instance:com.od.testscripts.FormsDocuments@47605f2f]" started-at="2022-02-03T13:47:52 IST" name="setExtentReport" finished-at="2022-02-03T13:47:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtentReport -->
+        <test-method is-config="true" signature="launchBrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.od.testscripts.FormsDocuments@47605f2f]" started-at="2022-02-03T13:47:52 IST" name="launchBrowser" finished-at="2022-02-03T13:48:06 IST" duration-ms="14636" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.od.testscripts.FormsDocuments.Background_Checks()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="Background_Checks()[pri:0, instance:com.od.testscripts.FormsDocuments@47605f2f]" started-at="2022-02-03T13:48:06 IST" name="Background_Checks" description="Description: Script to Background_Checks" finished-at="2022-02-03T13:49:20 IST" duration-ms="73632" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Background_Checks -->
+        <test-method is-config="true" signature="browserclose()[pri:0, instance:com.od.testscripts.FormsDocuments@47605f2f]" started-at="2022-02-03T13:49:20 IST" name="browserclose" finished-at="2022-02-03T13:49:20 IST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="killBrowser()[pri:0, instance:com.od.testscripts.FormsDocuments@47605f2f]" started-at="2022-02-03T13:49:20 IST" name="killBrowser" finished-at="2022-02-03T13:49:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killBrowser -->
+      </class> <!-- com.od.testscripts.FormsDocuments -->
+      <class name="com.od.testscripts.LawSummaries">
+        <test-method is-config="true" signature="createFolder(java.lang.String)[pri:0, instance:com.od.testscripts.LawSummaries@3f053c80]" started-at="2022-02-03T13:46:39 IST" name="createFolder" finished-at="2022-02-03T13:46:40 IST" duration-ms="314" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createFolder -->
+        <test-method is-config="true" signature="setExtentReport()[pri:0, instance:com.od.testscripts.LawSummaries@3f053c80]" started-at="2022-02-03T13:46:40 IST" name="setExtentReport" finished-at="2022-02-03T13:46:40 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtentReport -->
+        <test-method is-config="true" signature="launchBrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.od.testscripts.LawSummaries@3f053c80]" started-at="2022-02-03T13:46:40 IST" name="launchBrowser" finished-at="2022-02-03T13:46:50 IST" duration-ms="9866" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.od.testscripts.LawSummaries.Employment_Applications()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="Employment_Applications()[pri:0, instance:com.od.testscripts.LawSummaries@3f053c80]" started-at="2022-02-03T13:46:50 IST" name="Employment_Applications" finished-at="2022-02-03T13:47:52 IST" duration-ms="62059" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Employment_Applications -->
+        <test-method is-config="true" signature="browserclose()[pri:0, instance:com.od.testscripts.LawSummaries@3f053c80]" started-at="2022-02-03T13:47:52 IST" name="browserclose" finished-at="2022-02-03T13:47:52 IST" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="killBrowser()[pri:0, instance:com.od.testscripts.LawSummaries@3f053c80]" started-at="2022-02-03T13:47:52 IST" name="killBrowser" finished-at="2022-02-03T13:47:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killBrowser -->
+        <test-method is-config="true" signature="killTask(java.lang.String)[pri:0, instance:com.od.testscripts.LawSummaries@3f053c80]" started-at="2022-02-03T13:51:22 IST" name="killTask" finished-at="2022-02-03T13:51:24 IST" duration-ms="2276" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killTask -->
+      </class> <!-- com.od.testscripts.LawSummaries -->
+      <class name="com.od.testscripts.Quick_Guides">
+        <test-method is-config="true" signature="setExtentReport()[pri:0, instance:com.od.testscripts.Quick_Guides@2ece4966]" started-at="2022-02-03T13:49:20 IST" name="setExtentReport" finished-at="2022-02-03T13:49:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtentReport -->
+        <test-method is-config="true" signature="launchBrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.od.testscripts.Quick_Guides@2ece4966]" started-at="2022-02-03T13:49:20 IST" name="launchBrowser" finished-at="2022-02-03T13:49:29 IST" duration-ms="9083" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.od.testscripts.Quick_Guides.addQuickGuides()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="addQuickGuides()[pri:0, instance:com.od.testscripts.Quick_Guides@2ece4966]" started-at="2022-02-03T13:49:29 IST" name="addQuickGuides" description="Description: Script to Add Quick Guides" finished-at="2022-02-03T13:51:21 IST" duration-ms="111722" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[publish date text box is not visible]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+            <line>
+              <![CDATA[publish button is not visible]]>
+            </line>
+            <line>
+              <![CDATA[Unable to load the page correctly]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addQuickGuides -->
+        <test-method is-config="true" signature="browserclose()[pri:0, instance:com.od.testscripts.Quick_Guides@2ece4966]" started-at="2022-02-03T13:51:21 IST" name="browserclose" finished-at="2022-02-03T13:51:21 IST" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="killBrowser()[pri:0, instance:com.od.testscripts.Quick_Guides@2ece4966]" started-at="2022-02-03T13:51:21 IST" name="killBrowser" finished-at="2022-02-03T13:51:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killBrowser -->
+      </class> <!-- com.od.testscripts.Quick_Guides -->
+    </test> <!-- PROJECT_Test1 -->
+  </suite> <!-- od -->
+</testng-results>
